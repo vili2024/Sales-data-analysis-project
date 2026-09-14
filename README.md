@@ -1,26 +1,27 @@
-# Sales Data Analysis Project | Durban, SA
+# US Retail Sales Analysis - Excel Project
 
 ## Overview
-Analyzed 1195 retail orders from Kaggle Superstore dataset
+Analyzed $6.18M US retail sales dataset (6 states: NY, FL, CA, TX, IL, OH). Built in 3 days using Excel.
+
+## What I Did
+**Day 1 - Cleaning:** Removed duplicates, cleaned blanks, standardized Amount column in Excel
+**Day 2 - Analysis:** Created 3 PivotTables
+- Sales by State: New York $1,130,048 is #1 (18% of total)
+- Sales by Payment: Top payment method from pivot
+- Sales by Month: Monthly trend to find peak season
+**Day 3 - Dashboard:** Combined 3 charts + KPIs (Total Sales $6,182,639) + Slicer for interactivity
+
+## Key Insights for Business
+1. Focus inventory in New York - highest revenue
+2. Florida & California are growth markets ($1M+ each)
+3. Ohio lowest - needs marketing campaign
 
 ## Tools Used
--Excel:Text to Columns, Data Cleaning
--Github
+Excel (PivotTables, Charts, SUM, COUNTA, Slicers), GitHub
 
-## Day 1
--Fixed raw CSV where all data was in 1 column
--Formatted Amount as Currency and Order Date as Date
--Cleaned invalid dates
+## File
+`1_cleaned_sales_data.csv.xlsx` - 5 sheets: Dashboard, Sales by State, Sales by Payment, Sales by Month, Sales Dataset
 
-##  Files
-1_cleaned_sales_data.csv.xlsx
-
-## Day 2: Pivot Analysis & Visualization
-- Created 3 PivotTables in WPS Office:
-    1. Sales by State (Bar Chart) - Maharashtra = highest sales
-    2. Sales by Payment Mode (Pie Chart) - Debit Card = 22.5% of sales
-    3. Sales by Month (Line Chart) - Peak in 2022
-- Cleaned blank rows causing (blank) in pivots
-- Tools: WPS PivotTable, PivotChart, Data Labels
+Built from Durban, SA | Open to Data Analyst roles
 
 
