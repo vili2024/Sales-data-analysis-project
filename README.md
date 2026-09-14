@@ -9,8 +9,11 @@ Analyzed $6.18M US retail sales dataset (6 states: NY, FL, CA, TX, IL, OH). Buil
 - Sales by State: New York $1,130,048 is #1 (18% of total)
 - Sales by Payment: Top payment method from pivot
 - Sales by Month: Monthly trend to find peak season
-**Day 3 - Dashboard:** Combined 3 charts + KPIs (Total Sales $6,182,639) + Slicer for interactivity
-
+  ## Day 3 - Dashboard:
+ 4 KPIs at top (Total Sales, Top State, Top Payment, Total Orders)
+ Chart 1: Sales by State (bar)
+ Chart 2: Sales by Payment (pie) 
+ Chart 3: Sales by Month (line)
 ## Key Insights for Business
 1. Focus inventory in New York - highest revenue
 2. Florida & California are growth markets ($1M+ each)
