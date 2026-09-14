@@ -4,12 +4,12 @@
 Analyzed $6.18M US retail sales dataset (6 states: NY, FL, CA, TX, IL, OH). Built in 3 days using Excel.
 
 ## What I Did
-**Day 1 - Cleaning:** Removed duplicates, cleaned blanks, standardized Amount column in Excel
-**Day 2 - Analysis:** Created 3 PivotTables
+## Day 1 - Cleaning:** Removed duplicates, cleaned blanks, standardized Amount column in Excel
+## Day 2 - Analysis:** Created 3 PivotTables
 - Sales by State: New York $1,130,048 is #1 (18% of total)
 - Sales by Payment: Top payment method from pivot
 - Sales by Month: Monthly trend to find peak season
-  ## Day 3 - Dashboard:
+## Day 3 - Dashboard:
  4 KPIs at top (Total Sales, Top State, Top Payment, Total Orders)
  Chart 1: Sales by State (bar)
  Chart 2: Sales by Payment (pie) 
